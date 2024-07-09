@@ -1,3 +1,21 @@
+@font-face {
+  font-family: Merriweather ;
+  src: url('../public/font-families/Merriweather.ttf');
+}
+
+.font-Merriweather {
+  font-family:Merriweather;
+}
+
+@font-face {
+  font-family: Inter ;
+  src: url('../public/font-families/static/Inter.ttf');
+}
+
+.font-Inter {
+  font-family:Inter;
+}
+ 
 .App {
   text-align: center;
 }
